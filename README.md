@@ -1,2 +1,2 @@
-# skipass.github.io
+https://hlhi.github.io/skipass/
 for desktop
